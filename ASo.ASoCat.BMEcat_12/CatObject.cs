@@ -1,6 +1,6 @@
 ﻿
 using System.Collections.Generic;
-using System.Linq.Expressions;
+//using System.Linq.Expressions;
 
 namespace ASo.ASoCat.BMEcat_12
 {
@@ -12,12 +12,13 @@ namespace ASo.ASoCat.BMEcat_12
         /// <summary>
         /// Object's unique identifier.
         /// </summary>
+        // ReSharper disable once NotAccessedField.Local
         private readonly int _identifier;
 
         /// <summary>
         /// List of CatObject's attributes.
         /// </summary>
-        private List<Attribute> Attributes;
+        internal List<Attribute> Attributes;
 
         /// <summary>
         /// The constructor sets CatObject's identifier.
@@ -40,7 +41,7 @@ namespace ASo.ASoCat.BMEcat_12
             {
                 Globals.ObjectReader.MoveToAttribute(x);
                 var attribute = new Attribute();
-                attribute.Name = Globals.ObjectReader.Name;
+                attribute.Name  = Globals.ObjectReader.Name;
                 attribute.Value = Globals.ObjectReader.Value;
                 Attributes.Add(attribute);
             }
