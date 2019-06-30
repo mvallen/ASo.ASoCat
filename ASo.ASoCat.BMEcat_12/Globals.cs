@@ -1,5 +1,4 @@
-﻿using System;
-using System.Xml;
+﻿using System.Xml;
 
 namespace ASo.ASoCat.BMEcat_12
 {
@@ -55,1080 +54,1081 @@ namespace ASo.ASoCat.BMEcat_12
         /// <summary>
         /// Catalog element ALLOWED_VALUE_DESCR
         /// </summary>
-        public const string CatElementALLOWED_VALUE_DESCR = "ALLOWED_VALUE_DESCR";
+        public const string CatElementAllowedValueDescr = "ALLOWED_VALUE_DESCR";
 
         /// <summary>
         /// Catalog element ALLOWED_VALUE_ID
         /// </summary>
-        public const string CatElementALLOWED_VAUE_ID = "ALLOWED_VALUE_ID";
+        public const string CatElementAllowedVaueId = "ALLOWED_VALUE_ID";
 
         /// <summary>
         /// Catalog element ALLOWED_VALUE_IDREF
         /// </summary>
-        public const string CatElementALLOWED_VALUE_IDREF = "ALLOWED_VALUE_IDREF";
+        public const string CatElementAllowedValueIdref = "ALLOWED_VALUE_IDREF";
 
         /// <summary>
         /// Catalog element ALLOWED_VALUE_NAME
         /// </summary>
-        public const string CatElementALLOWED_VALUE_NAME = "ALLOWED_VALUE_NAME";
+        public const string CatElementAllowedValueName = "ALLOWED_VALUE_NAME";
 
         /// <summary>
         /// Catalog element ARTICLE
         /// </summary>
-        public const string CatElementARTICLE = "ARTICLE";
+        public const string CatElementArticle = "ARTICLE";
 
         /// <summary>
         /// Catalog element ARTICLE_DETAILS
         /// </summary>
-        public const string CatElementARTICLE_DETAILS = "ARTICLE_DETAILS";
+        public const string CatElementArticleDetails = "ARTICLE_DETAILS";
 
         /// <summary>
         /// Catalog element ARTICLE_FEATURES
         /// </summary>
-        public const string CatElementARTICLE_FEATURES = "ARTICLE_FEATURES";
+        public const string CatElementArticleFeatures = "ARTICLE_FEATURES";
 
         /// <summary>
         /// Catalog element ARTICLE_ORDER
         /// </summary>
-        public const string CatElementARTICLE_ORDER = "ARTICLE_ORDER";
+        public const string CatElementArticleOrder = "ARTICLE_ORDER";
 
 
         /// <summary>
         /// Catalog element ARTICLE_ORDER_DETAILS
         /// </summary>
-        public const string CatElementARTICLE_ORDER_DETAILS = "ARTICLE_ORDER_DETAILS";
+        public const string CatElementArticleOrderDetails = "ARTICLE_ORDER_DETAILS";
 
         /// <summary>
         /// Catalog element ARTICLE_PRICE
         /// </summary>
-        public const string CatElementARTICLE_PRICE = "ARTICLE_PRICE";
+        public const string CatElementArticlePrice = "ARTICLE_PRICE";
 
         /// <summary>
         /// Catalog element ARTICLE_PRICE_DETAILS
         /// </summary>
-        public const string CatElementARTICLE_PRICE_DETAILS = "ARTICLE_PRICE";
+        public const string CatElementArticlePriceDetails = "ARTICLE_PRICE";
 
         /// <summary>
         /// Catalog element ARTICLE_REFERENCE
         /// </summary>
-        public const string CatElementARTICLE_REFERENCE = "ARTICLE_REFERENCE";
+        public const string CatElementArticleReference = "ARTICLE_REFERENCE";
 
         /// <summary>
         /// Catalog element ARTICLE_STATUS
         /// </summary>
-        public const string CatElementARTICLE_STATUS = "ARTICLE_STATUS";
+        public const string CatElementArticleStatus = "ARTICLE_STATUS";
 
         /// <summary>
         /// Catalog element ARTICLE_TO_CATALOGGROUP_MAP
         /// </summary>
-        public const string CatElementARTICLE_TO_CATALOGGROUP_MAP = "ARTICLE_TO_CATALOGGROUP_MAP";
+        public const string CatElementArticleToCataloggroupMap = "ARTICLE_TO_CATALOGGROUP_MAP";
 
         /// <summary>
         /// Catalog element ARTICLE_TO_CATALOGGROUP_MAP_ORDER
         /// </summary>
-        public const string CatElementARTICLE_TO_CATALOGGROUP_MAP_ORDER = "ARTICLE_TO_CATALOGGROUP_MAP_ORDER";
+        public const string CatElementArticleToCataloggroupMapOrder = "ARTICLE_TO_CATALOGGROUP_MAP_ORDER";
 
         /// <summary>
         /// Catalog element ART_ID
         /// </summary>
-        public const string CatElementART_ID = "ART_ID";
+        public const string CatElementArtId = "ART_ID";
 
         /// <summary>
         /// Catalog element ART_ID_TO
         /// </summary>
-        public const string CatElementART_ID_TO = "ART_ID_TO";
+        public const string CatElementArtIdTo = "ART_ID_TO";
 
         /// <summary>
         /// Catalog element BMECAT
         /// </summary>
-        public const string CatElementBMECAT = "BMECAT";
+        public const string CatElementBmecat = "BMECAT";
 
         /// <summary>
         /// Catalog element BMECAT_DATA
         /// </summary>
-        public const string CatElementBMECAT_DATA = "BMECAT_DATA";
+        public const string CatElementBmecatData = "BMECAT_DATA";
 
         /// <summary>
         /// Catalog element BMECAT_FILE
         /// </summary>
-        public const string CatElementBMECAT_FILE = "BMECAT_FILE";
+        public const string CatElementBmecatFile = "BMECAT_FILE";
 
         /// <summary>
         /// Catalog element BOXNO
         /// </summary>
-        public const string CatElementBOXNO = "BOXNO";
+        public const string CatElementBoxno = "BOXNO";
 
         /// <summary>
         /// Catalog element BUYER
         /// </summary>
-        public const string CatElementBUYER = "BUYER";
+        public const string CatElementBuyer = "BUYER";
 
         /// <summary>
         /// Catalog element BUYER_AID
         /// </summary>
-        public const string CatElementBUYER_AID = "BUYER_AID";
+        public const string CatElementBuyerAid = "BUYER_AID";
 
         /// <summary>
         /// Catalog element BUYER_ID
         /// </summary>
-        public const string CatElementBUYER_ID = "BUYER_ID";
+        public const string CatElementBuyerId = "BUYER_ID";
 
         /// <summary>
         /// Catalog element BUYER_NAME
         /// </summary>
-        public const string CatElementBUYER_NAME = "BUYER_NAME";
+        public const string CatElementBuyerName = "BUYER_NAME";
 
         /// <summary>
         /// Catalog element CATALOG
         /// </summary>
-        public const string CatElementCATALOG = "CATALOG";
+        public const string CatElementCatalog = "CATALOG";
 
         /// <summary>
         /// Catalog element CATALOG_GROUP_ID
         /// </summary>
-        public const string CatElementCATALOG_GROUP_ID = "CATALOG_GROUP_ID";
+        public const string CatElementCatalogGroupId = "CATALOG_GROUP_ID";
 
         /// <summary>
         /// Catalog element CATALOG_GROUP_SYSTEM
         /// </summary>
-        public const string CatElementCATALOG_GROUP_SYSTEM = "CATALOG_GROUP_SYSTEM";
+        public const string CatElementCatalogGroupSystem = "CATALOG_GROUP_SYSTEM";
 
         /// <summary>
         /// Catalog element CATALOG_ID
         /// </summary>
-        public const string CatElementCATALOG_ID = "CATALOG_ID";
+        public const string CatElementCatalogId = "CATALOG_ID";
 
         /// <summary>
         /// Catalog element CATALOG_NAME
         /// </summary>
-        public const string CatElementCATALOG_NAME = "CATALOG_NAME";
+        public const string CatElementCatalogName = "CATALOG_NAME";
 
         /// <summary>
         /// Catalog element CATALOG_STRUCTURE
         /// </summary>
-        public const string CatElementCATALOG_STRUCTURE = "CATALOG_STRUCTURE";
+        public const string CatElementCatalogStructure = "CATALOG_STRUCTURE";
 
         /// <summary>
         /// Catalog element CATALOG_VERSION
         /// </summary>
-        public const string CatElementCATALOG_VERSION = "CATALOG_VERSION";
+        public const string CatElementCatalogVersion = "CATALOG_VERSION";
 
         /// <summary>
         /// Catalog element CITY
         /// </summary>
-        public const string CatElementCITY = "CITY";
+        public const string CatElementCity = "CITY";
 
         /// <summary>
         /// Catalog element CLASSIFICATION_GROUP
         /// </summary>
-        public const string CatElementCLASSIFICATION_GROUP = "CLASSIFICATION_GROUP";
+        public const string CatElementClassificationGroup = "CLASSIFICATION_GROUP";
 
         /// <summary>
         /// Catalog element CLASSIFICATION_GROUPS
         /// </summary>
-        public const string CatElementCLASSIFICATION_GROUPS = "CLASSIFICATION_GROUPS";
+        public const string CatElementClassificationGroups = "CLASSIFICATION_GROUPS";
 
         /// <summary>
         /// Catalog element CLASSIFICATION_GROUP_DESCR
         /// </summary>
-        public const string CatElementCLASSIFICATION_GROUP_DESCR = "CLASSIFICATION_GROUP_DESCR";
+        public const string CatElementClassificationGroupDescr = "CLASSIFICATION_GROUP_DESCR";
 
         /// <summary>
         /// Catalog element CLASSIFICATION_GROUP_FEATURE_TEMPLATE
         /// </summary>
-        public const string CatElementCLASSIFICATION_GROUP_FEATURE_TEMPLATE = "CLASSIFICATION_GROUP_FEATURE_TEMPLATE";
+        public const string CatElementClassificationGroupFeatureTemplate = "CLASSIFICATION_GROUP_FEATURE_TEMPLATE";
 
         /// <summary>
         /// Catalog element CLASSIFICATION_GROUP_FEATURE_TEMPLATES
         /// </summary>
-        public const string CatElementCLASSIFICATION_GROUP_FEATURE_TEMPLATES = "CLASSIFICATION_GROUP_FEATURE_TEMPLATES";
+        public const string CatElementClassificationGroupFeatureTemplates = "CLASSIFICATION_GROUP_FEATURE_TEMPLATES";
 
         /// <summary>
         /// Catalog element CLASSIFICATION_GROUP_ID
         /// </summary>
-        public const string CatElementCLASSIFICATION_GROUP_ID = "CLASSIFICATION_GROUP_ID";
+        public const string CatElementClassificationGroupId = "CLASSIFICATION_GROUP_ID";
 
         /// <summary>
         /// Catalog element CLASSIFICATION_GROUP_NAME
         /// </summary>
-        public const string CatElementCLASSIFICATION_GROUP_NAME = "CLASSIFICATION_GROUP_NAME";
+        public const string CatElementClassificationGroupName = "CLASSIFICATION_GROUP_NAME";
 
         /// <summary>
         /// Catalog element CLASSIFICATION_GROUP_PARENT_ID
         /// </summary>
-        public const string CatElementCLASSIFICATION_GROUP_PARENT_ID = "CLASSIFICATION_GROUP_PARENT_ID";
+        public const string CatElementClassificationGroupParentId = "CLASSIFICATION_GROUP_PARENT_ID";
 
         /// <summary>
         /// Catalog element CLASSIFICATION_GROUP_SYNONYMS
         /// </summary>
-        public const string CatElementCLASSIFICATION_GROUP_SYNONYMS = "CLASSIFICATION_GROUP_SYNONYMS";
+        public const string CatElementClassificationGroupSynonyms = "CLASSIFICATION_GROUP_SYNONYMS";
 
         /// <summary>
         /// Catalog element CLASSIFICATION_SYSTEM
         /// </summary>
-        public const string CatElementCLASSIFICATION_SYSTEM = "CLASSIFICATION_SYSTEM";
+        public const string CatElementClassificationSystem = "CLASSIFICATION_SYSTEM";
 
         /// <summary>
         /// Catalog element CLASSIFICATION_SYSTEM_DESCR
         /// </summary>
-        public const string CatElementCLASSIFICATION_SYSTEM_DESCR = "CLASSIFICATION_SYSTEM_DESCR";
+        public const string CatElementClassificationSystemDescr = "CLASSIFICATION_SYSTEM_DESCR";
 
         /// <summary>
         /// Catalog element CLASSIFICATION_SYSTEM_FEATURE_TEMPLATE
         /// </summary>
-        public const string CatElementCLASSIFICATION_SYSTEM_FEATURE_TEMPLATE = "CLASSIFICATION_SYSTEM_FEATURE_TEMPLATE";
+        public const string CatElementClassificationSystemFeatureTemplate = "CLASSIFICATION_SYSTEM_FEATURE_TEMPLATE";
 
         /// <summary>
         /// Catalog element CLASSIFICATION_SYSTEM_FEATURE_TEMPLATES
         /// </summary>
-        public const string CatElementCLASSIFICATION_SYSTEM_FEATURE_TEMPLATES =
-            "CLASSIFICATION_SYSTEM_FEATURE_TEMPLATES";
+        public const string CatElementClassificationSystemFeatureTemplates = "CLASSIFICATION_SYSTEM_FEATURE_TEMPLATES";
 
         /// <summary>
         /// Catalog element CLASSIFICATION_SYSTEM_FULLNAME
         /// </summary>
-        public const string CatElementCLASSIFICATION_SYSTEM_FULLNAME = "CLASSIFICATION_SYSTEM_FULLNAME";
+        public const string CatElementClassificationSystemFullname = "CLASSIFICATION_SYSTEM_FULLNAME";
 
         /// <summary>
         /// Catalog element CLASSIFICATION_SYSTEM_LEVELS
         /// </summary>
-        public const string CatElementCLASSIFICATION_SYSTEM_LEVELS = "CLASSIFICATION_SYSTEM_LEVELS";
+        public const string CatElementClassificationSystemLevels = "CLASSIFICATION_SYSTEM_LEVELS";
 
         /// <summary>
         /// Catalog element CLASSIFICATION_SYSTEM_LEVEL_NAME
         /// </summary>
-        public const string CatElementCLASSIFICATION_SYSTEM_LEVEL_NAME = "CLASSIFICATION_SYSTEM_LEVEL_NAME";
+        public const string CatElementClassificationSystemLevelName = "CLASSIFICATION_SYSTEM_LEVEL_NAME";
 
         /// <summary>
         /// Catalog element CLASSIFICATION_SYSTEM_LEVEL_NAMES
         /// </summary>
-        public const string CatElementCLASSIFICATION_SYSTEM_LEVEL_NAMES = "CLASSIFICATION_SYSTEM_LEVEL_NAMES";
+        public const string CatElementClassificationSystemLevelNames = "CLASSIFICATION_SYSTEM_LEVEL_NAMES";
 
         /// <summary>
         /// Catalog element CLASSIFICATION_SYSTEM_NAME
         /// </summary>
-        public const string CatElementCLASSIFICATION_SYSTEM_NAME = "CLASSIFICATION_SYSTEM_NAME";
+        public const string CatElementClassificationSystemName = "CLASSIFICATION_SYSTEM_NAME";
 
         /// <summary>
         /// Catalog element CLASSIFICATION_SYSTEM_VERSION
         /// </summary>
-        public const string CatElementCLASSIFICATION_SYSTEM_VERSION = "CLASSIFICATION_SYSTEM_VERSION";
+        public const string CatElementClassificationSystemVersion = "CLASSIFICATION_SYSTEM_VERSION";
 
         /// <summary>
         /// Catalog element CONTACT
         /// </summary>
-        public const string CatElementCONTACT = "CONTACT";
+        public const string CatElementContact = "CONTACT";
 
         /// <summary>
         /// Catalog element CONTENT_UNIT
         /// </summary>
-        public const string CatElementCONTENT_UNIT = "CONTENT_UNIT";
+        public const string CatElementContentUnit = "CONTENT_UNIT";
 
         /// <summary>
         /// Catalog element COUNTRY
         /// </summary>
-        public const string CatElementCOUNTRY = "COUNTRY";
+        public const string CatElementCountry = "COUNTRY";
 
         /// <summary>
         /// Catalog element CURRENCY
         /// </summary>
-        public const string CatElementCURRENCY = "CURRENCY";
+        public const string CatElementCurrency = "CURRENCY";
 
         /// <summary>
         /// Catalog element DAILY_PRICE
         /// </summary>
-        public const string CatElementDAILY_PRICE = "DAILY_PRICE";
+        public const string CatElementDailyPrice = "DAILY_PRICE";
 
         /// <summary>
         /// Catalog element DATE
         /// </summary>
-        public const string CatElementDATE = "DATE";
+        public const string CatElementDate = "DATE";
 
         /// <summary>
         /// Catalog element DATETIME
         /// </summary>
-        public const string CatElementDATETIME = "DATETIME";
+        public const string CatElementDatetime = "DATETIME";
 
         /// <summary>
         /// Catalog element DELIVERY_TIME
         /// </summary>
-        public const string CatElementDELIVERY_TIME = "DELIVERY_TIME";
+        public const string CatElementDeliveryTime = "DELIVERY_TIME";
 
         /// <summary>
         /// Catalog element DESCRIPTION_LONG
         /// </summary>
-        public const string CatElementDESCRIPTION_LONG = "DESCRIPTION_LONG";
+        public const string CatElementDescriptionLong = "DESCRIPTION_LONG";
 
         /// <summary>
         /// Catalog element DESCRIPTION_SHORT
         /// </summary>
-        public const string CatElementDESCRIPTION_SHORT = "DESCRIPTION_SHORT";
+        public const string CatElementDescriptionShort = "DESCRIPTION_SHORT";
 
         /// <summary>
         /// Catalog element DOCTYPE
         /// </summary>
-        public const string CatElementDOCTYPE = "DOCTYPE";
+        public const string CatElementDoctype = "DOCTYPE";
 
         /// <summary>
         /// Catalog element EAN
         /// </summary>
-        public const string CatElementEAN = "EAN";
+        public const string CatElementEan = "EAN";
 
         /// <summary>
         /// Catalog element EMAIL
         /// </summary>
-        public const string CatElementEMAIL = "EMAIL";
+        public const string CatElementEmail = "EMAIL";
 
         /// <summary>
         /// Catalog element ERP_GROUP_BUYER
         /// </summary>
-        public const string CatElementERP_GROUP_BUYER = "ERP_GROUP_BUYER";
+        public const string CatElementErpGroupBuyer = "ERP_GROUP_BUYER";
 
         /// <summary>
         /// Catalog element ERP_GROUP_SUPPLIER
         /// </summary>
-        public const string CatElementERP_GROUP_SUPPLIER = "ERP_GROUP_SUPPLIER";
+        public const string CatElementErpGroupSupplier = "ERP_GROUP_SUPPLIER";
 
         /// <summary>
         /// Catalog element FAX
         /// </summary>
-        public const string CatElementFAX = "FAX";
+        public const string CatElementFax = "FAX";
 
         /// <summary>
         /// Catalog element FDESCR
         /// </summary>
-        public const string CatElementFDESCR = "FDESCR";
+        public const string CatElementFdescr = "FDESCR";
 
         /// <summary>
         /// Catalog element FEATURE
         /// </summary>
-        public const string CatElementFEATURE = "FEATURE";
+        public const string CatElementFeature = "FEATURE";
 
         /// <summary>
         /// Catalog element FEATURE_GROUP
         /// </summary>
-        public const string CatElementFEATURE_GROUP = "FEATURE_GROUP";
+        public const string CatElementFeatureGroup = "FEATURE_GROUP";
 
         /// <summary>
         /// Catalog element FEATURE_GROUP_DESCR
         /// </summary>
-        public const string CatElementFEATURE_GROUP_DESCR = "FEATURE_GROUP_DESCR";
+        public const string CatElementFeatureGroupDescr = "FEATURE_GROUP_DESCR";
 
         /// <summary>
         /// Catalog element FEATURE_GROUP_ID
         /// </summary>
-        public const string CatElementFEATURE_GROUP_ID = "FEATURE_GROUP_ID";
+        public const string CatElementFeatureGroupId = "FEATURE_GROUP_ID";
 
         /// <summary>
         /// Catalog element FEATURE_GROUP_NAME
         /// </summary>
-        public const string CatElementFEATURE_GROUP_NAME = "FEATURE_GROUP_NAME";
+        public const string CatElementFeatureGroupName = "FEATURE_GROUP_NAME";
 
         /// <summary>
         /// Catalog element FEATURE_SYSTEM
         /// </summary>
-        public const string CatElementFEATURE_SYSTEM = "FEATURE_SYSTEM";
+        public const string CatElementFeatureSystem = "FEATURE_SYSTEM";
 
         /// <summary>
         /// Catalog element FEATURE_SYSTEM_DESCR
         /// </summary>
-        public const string CatElementFEATURE_SYSTEM_DESCR = "FEATURE_SYSTEM_DESCR";
+        public const string CatElementFeatureSystemDescr = "FEATURE_SYSTEM_DESCR";
 
         /// <summary>
         /// Catalog element FEATURE_SYSTEM_NAME
         /// </summary>
-        public const string CatElementFEATURE_SYSTEM_NAME = "FEATURE_SYSTEM_NAME";
+        public const string CatElementFeatureSystemName = "FEATURE_SYSTEM_NAME";
 
         /// <summary>
         /// Catalog element FEATURE_TEMPLATE
         /// </summary>
-        public const string CatElementFEATURE_TEMPLATE = "FEATURE_TEMPLATE";
+        public const string CatElementFeatureTemplate = "FEATURE_TEMPLATE";
 
         /// <summary>
         /// Catalog element FNAME
         /// </summary>
-        public const string CatElementFNAME = "FNAME";
+        public const string CatElementFname = "FNAME";
 
         /// <summary>
         /// Catalog element FORDER
         /// </summary>
-        public const string CatElementFORDER = "FORDER";
+        public const string CatElementForder = "FORDER";
 
         /// <summary>
         /// Catalog element FT_ALLOWED_VALUES
         /// </summary>
-        public const string CatElementFT_ALLOWED_VALUES = "FT_ALLOWED_VALUES";
+        public const string CatElementFtAllowedValues = "FT_ALLOWED_VALUES";
 
         /// <summary>
         /// Catalog element FT_DATATYPE
         /// </summary>
-        public const string CatElementFT_DATATYPE = "FT_DATATYPE";
+        public const string CatElementFtDatatype = "FT_DATATYPE";
 
         /// <summary>
         /// Catalog element FT_DESCR
         /// </summary>
-        public const string CatElementFT_DESCR = "FT_DESCR";
+        public const string CatElementFtDescr = "FT_DESCR";
 
         /// <summary>
         /// Catalog element FT_ID
         /// </summary>
-        public const string CatElementFT_ID = "FT_ID";
+        public const string CatElementFtId = "FT_ID";
 
         /// <summary>
         /// Catalog element FT_IDREF
         /// </summary>
-        public const string CatElementFT_IDREF = "FT_IDREF";
+        public const string CatElementFtIdref = "FT_IDREF";
 
         /// <summary>
         /// Catalog element FT_MANDATORY
         /// </summary>
-        public const string CatElementFT_MANDATORY = "FT_MANDATORY";
+        public const string CatElementFtMandatory = "FT_MANDATORY";
 
         /// <summary>
         /// Catalog element FT_NAME
         /// </summary>
-        public const string CatElementFT_NAME = "FT_NAME";
+        public const string CatElementFtName = "FT_NAME";
 
         /// <summary>
         /// Catalog element FT_ORDER
         /// </summary>
-        public const string CatElementFT_ORDER = "FT_ORDER";
+        public const string CatElementFtOrder = "FT_ORDER";
 
         /// <summary>
         /// Catalog element FT_UNIT
         /// </summary>
-        public const string CatElementFT_UNIT = "FT_UNIT";
+        public const string CatElementFtUnit = "FT_UNIT";
 
         /// <summary>
         /// Catalog element FUNIT
         /// </summary>
-        public const string CatElementFUNIT = "FUNIT";
+        public const string CatElementFunit = "FUNIT";
 
         /// <summary>
         /// Catalog element FVALUE
         /// </summary>
-        public const string CatElementFVALUE = "FVALUE";
+        public const string CatElementFvalue = "FVALUE";
 
         /// <summary>
         /// Catalog element FVALUE_DETAILS
         /// </summary>
-        public const string CatElementFVALUE_DETAILS = "FVALUE_DETAILS";
+        public const string CatElementFvalueDetails = "FVALUE_DETAILS";
 
         /// <summary>
         /// Catalog element GENERATOR_INFO
         /// </summary>
-        public const string CatElementGENERATOR_INFO = "GENERATOR_INFO";
+        public const string CatElementGeneratorInfo = "GENERATOR_INFO";
 
         /// <summary>
         /// Catalog element GROUP_DESCRIPTION
         /// </summary>
-        public const string CatElementGROUP_DESCRIPTION = "GROUP_DESCRIPTION";
+        public const string CatElementGroupDescription = "GROUP_DESCRIPTION";
 
         /// <summary>
         /// Catalog element GROUP_ID
         /// </summary>
-        public const string CatElementGROUP_ID = "GROUP_ID";
+        public const string CatElementGroupId = "GROUP_ID";
 
         /// <summary>
         /// Catalog element GROUP_NAME
         /// </summary>
-        public const string CatElementGROUP_NAME = "GROUP_NAME";
+        public const string CatElementGroupName = "GROUP_NAME";
 
         /// <summary>
         /// Catalog element GROUP_ORDER
         /// </summary>
-        public const string CatElementGROUP_ORDER = "GROUP_ORDER";
+        public const string CatElementGroupOrder = "GROUP_ORDER";
 
         /// <summary>
         /// Catalog element GROUP_PRODUCT_ORDER
         /// </summary>
-        public const string CatElementGROUP_PRODUCT_ORDER = "GROUP_PRODUCT_ORDER";
+        public const string CatElementGroupProductOrder = "GROUP_PRODUCT_ORDER";
 
         /// <summary>
         /// Catalog element GROUP_SYSTEM_DESCRIPTION
         /// </summary>
-        public const string CatElementGROUP_SYSTEM_DESCRIPTION = "GROUP_SYSTEM_DESCRIPTION";
+        public const string CatElementGroupSystemDescription = "GROUP_SYSTEM_DESCRIPTION";
 
         /// <summary>
         /// Catalog element GROUP_SYSTEM_ID
         /// </summary>
-        public const string CatElementGROUP_SYSTEM_ID = "GROUP_SYSTEM_ID";
+        public const string CatElementGroupSystemId = "GROUP_SYSTEM_ID";
 
         /// <summary>
         /// Catalog element GROUP_SYSTEM_NAME
         /// </summary>
-        public const string CatElementGROUP_SYSTEM_NAME = "GROUP_SYSTEM_NAME";
+        public const string CatElementGroupSystemName = "GROUP_SYSTEM_NAME";
 
         /// <summary>
         /// Catalog element HEADER
         /// </summary>
-        public const string CatElementHEADER = "HEADER";
+        public const string CatElementHeader = "HEADER";
 
         /// <summary>
         /// Catalog element KEYWORD
         /// </summary>
-        public const string CatElementKEYWORD = "KEYWORD";
+        public const string CatElementKeyword = "KEYWORD";
 
         /// <summary>
         /// Catalog element LANGUAGE
         /// </summary>
-        public const string CatElementLANGUAGE = "LANGUAGE";
+        public const string CatElementLanguage = "LANGUAGE";
 
         /// <summary>
         /// Catalog element LOWER_BOUND
         /// </summary>
-        public const string CatElementLOWER_BOUND = "LOWER_BOUND";
+        public const string CatElementLowerBound = "LOWER_BOUND";
 
         /// <summary>
         /// Catalog element MANUFACTURER_AID
         /// </summary>
-        public const string CatElementMANUFACTURER_AID = "MANUFACTURER_AID";
+        public const string CatElementManufacturerAid = "MANUFACTURER_AID";
 
         /// <summary>
         /// Catalog element MANUFACTURER_NAME
         /// </summary>
-        public const string CatElementMANUFACTURER_NAME = "MANUFACTURER_NAME";
+        public const string CatElementManufacturerName = "MANUFACTURER_NAME";
 
         /// <summary>
         /// Catalog element MANUFACTURER_TYPE_DESCR
         /// </summary>
-        public const string CatElementMANUFACTURER_TYPE_DESCR = "MANUFACTURER_TYPE_DESCR";
+        public const string CatElementManufacturerTypeDescr = "MANUFACTURER_TYPE_DESCR";
 
         /// <summary>
         /// Catalog element MIME
         /// </summary>
-        public const string CatElementMIME = "MIME";
+        public const string CatElementMime = "MIME";
 
         /// <summary>
         /// Catalog element MIME_ALT
         /// </summary>
-        public const string CatElementMIME_ALT = "MIME_ALT";
+        public const string CatElementMimeAlt = "MIME_ALT";
 
         /// <summary>
         /// Catalog element MIME_DESCR
         /// </summary>
-        public const string CatElementMIME_DESCR = "MIME_DESCR";
+        public const string CatElementMimeDescr = "MIME_DESCR";
 
         /// <summary>
         /// Catalog element MIME_INFO
         /// </summary>
-        public const string CatElementMIME_INFO = "MIME_INFO";
+        public const string CatElementMimeInfo = "MIME_INFO";
 
         /// <summary>
         /// Catalog element MIME_ORDER
         /// </summary>
-        public const string CatElementMIME_ORDER = "MIME_ORDER";
+        public const string CatElementMimeOrder = "MIME_ORDER";
 
         /// <summary>
         /// Catalog element MIME_PURPOSE
         /// </summary>
-        public const string CatElementMIME_PURPOSE = "MIME_PURPOSE";
+        public const string CatElementMimePurpose = "MIME_PURPOSE";
 
         /// <summary>
         /// Catalog element MIME_ROOT
         /// </summary>
-        public const string CatElementMIME_ROOT = "MIME_ROOT";
+        public const string CatElementMimeRoot = "MIME_ROOT";
 
         /// <summary>
         /// Catalog element MIME_SOURCE
         /// </summary>
-        public const string CatElementMIME_SOURCE = "MIME_SOURCE";
+        public const string CatElementMimeSource = "MIME_SOURCE";
 
         /// <summary>
         /// Catalog element MIME_TYPE
         /// </summary>
-        public const string CatElementMIME_TYPE = "MIME_TYPE";
+        public const string CatElementMimeType = "MIME_TYPE";
 
         /// <summary>
         /// Catalog element NAME
         /// </summary>
-        public const string CatElementNAME = "NAME";
+        public const string CatElementName = "NAME";
 
         /// <summary>
         /// Catalog element NAME2
         /// </summary>
-        public const string CatElementNAME2 = "NAME2";
+        public const string CatElementName2 = "NAME2";
 
         /// <summary>
         /// Catalog element NAME3
         /// </summary>
-        public const string CatElementNAME3 = "NAME3";
+        public const string CatElementName3 = "NAME3";
 
         /// <summary>
         /// Catalog element NO_CU_PER_OU
         /// </summary>
-        public const string CatElementNO_CU_PER_OU = "NO_CU_PER_OU";
+        public const string CatElementNoCuPerOu = "NO_CU_PER_OU";
 
         /// <summary>
         /// Catalog element ORDER_UNIT
         /// </summary>
-        public const string CatElementORDER_UNIT = "ORDER_UNIT";
+        public const string CatElementOrderUnit = "ORDER_UNIT";
 
         /// <summary>
         /// Catalog element PACKING_UNITS
         /// </summary>
-        public const string CatElementPACKING_UNITS = "PACKING_UNITS";
+        public const string CatElementPackingUnits = "PACKING_UNITS";
 
         /// <summary>
         /// Catalog element PARENT_ID
         /// </summary>
-        public const string CatElementPARENT_ID = "PARENT_ID";
+        public const string CatElementParentId = "PARENT_ID";
 
         /// <summary>
         /// Catalog element PHONE
         /// </summary>
-        public const string CatElementPHONE = "PHONE";
+        public const string CatElementPhone = "PHONE";
 
         /// <summary>
         /// Catalog element PRICE_AMOUNT
         /// </summary>
-        public const string CatElementPRICE_AMOUNT = "PRICE_AMOUNT";
+        public const string CatElementPriceAmount = "PRICE_AMOUNT";
 
         /// <summary>
         /// Catalog element PRICE_CURRENCY
         /// </summary>
-        public const string CatElementPRICE_CURRENCY = "PRICE_CURRENCY";
+        public const string CatElementPriceCurrency = "PRICE_CURRENCY";
 
         /// <summary>
         /// Catalog element PRICE_FACTOR
         /// </summary>
-        public const string CatElementPRICE_FACTOR = "PRICE_FACTOR";
+        public const string CatElementPriceFactor = "PRICE_FACTOR";
 
         /// <summary>
         /// Catalog element PRICE_FLAG
         /// </summary>
-        public const string CatElementPRICE_FLAG = "PRICE_FLAG";
+        public const string CatElementPriceFlag = "PRICE_FLAG";
 
         /// <summary>
         /// Catalog element PRICE_QUANTITY
         /// </summary>
-        public const string CatElementPRICE_QUANTITY = "PRICE_QUANTITY";
+        public const string CatElementPriceQuantity = "PRICE_QUANTITY";
 
         /// <summary>
         /// Catalog element PROD_ID
         /// </summary>
-        public const string CatElementPROD_ID = "PROD_ID";
+        public const string CatElementProdId = "PROD_ID";
 
         /// <summary>
         /// Catalog element PROD_ID_TO
         /// </summary>
-        public const string CatElementPROD_ID_TO = "PROD_ID_TO";
+        public const string CatElementProdIdTo = "PROD_ID_TO";
 
         /// <summary>
         /// Catalog element PUBLIC_KEY
         /// </summary>
-        public const string CatElementPUBLIC_KEY = "PUBLIC_KEY";
+        public const string CatElementPublicKey = "PUBLIC_KEY";
 
         /// <summary>
         /// Catalog element QUANTITY_INTERVAL
         /// </summary>
-        public const string CatElementQUANTITY_INTERVAL = "QUANTITY_INTERVAL";
+        public const string CatElementQuantityInterval = "QUANTITY_INTERVAL";
 
         /// <summary>
         /// Catalog element QUANTITY_MAX
         /// </summary>
-        public const string CatElementQUANTITY_MAX = "QUANTITY_MAX";
+        public const string CatElementQuantityMax = "QUANTITY_MAX";
 
         /// <summary>
         /// Catalog element QUANTITY_MIN
         /// </summary>
-        public const string CatElementQUANTITY_MIN = "QUANTITY_MIN";
+        public const string CatElementQuantityMin = "QUANTITY_MIN";
 
         /// <summary>
         /// Catalog element REFERENCE_FEATURE_GROUP_ID
         /// </summary>
-        public const string CatElementREFERENCE_FEATURE_GROUP_ID = "REFERENCE_FEATURE_GROUP_ID";
+        public const string CatElementReferenceFeatureGroupId = "REFERENCE_FEATURE_GROUP_ID";
 
         /// <summary>
         /// Catalog element REFERENCE_FEATURE_GROUP_ID2
         /// </summary>
-        public const string CatElementREFERENCE_FEATURE_GROUP_ID2 = "REFERENCE_FEATURE_GROUP_ID2";
+        public const string CatElementReferenceFeatureGroupId2 = "REFERENCE_FEATURE_GROUP_ID2";
 
         /// <summary>
         /// Catalog element REFERENCE_FEATURE_GROUP_NAME
         /// </summary>
-        public const string CatElementREFERENCE_FEATURE_GROUP_NAME = "REFERENCE_FEATURE_GROUP_NAME";
+        public const string CatElementReferenceFeatureGroupName = "REFERENCE_FEATURE_GROUP_NAME";
 
         /// <summary>
         /// Catalog element REFERENCE_FEATURE_SYSTEM_NAME
         /// </summary>
-        public const string CatElementREFERENCE_FEATURE_SYSTEM_NAME = "REFERENCE_FEATURE_SYSTEM_NAME";
+        public const string CatElementReferenceFeatureSystemName = "REFERENCE_FEATURE_SYSTEM_NAME";
 
         /// <summary>
         /// Catalog element REMARKS
         /// </summary>
-        public const string CatElementREMARKS = "REMARKS";
+        public const string CatElementRemarks = "REMARKS";
 
         /// <summary>
         /// Catalog element SEGMENT
         /// </summary>
-        public const string CatElementSEGMENT = "SEGMENT";
+        public const string CatElementSegment = "SEGMENT";
 
         /// <summary>
         /// Catalog element SPECIAL_TREATMENT_CLASS
         /// </summary>
-        public const string CatElementSPECIAL_TREATMENT_CLASS = "SPECIAL_TREATMENT_CLASS";
+        public const string CatElementSpecialTreatmentClass = "SPECIAL_TREATMENT_CLASS";
 
         /// <summary>
         /// Catalog element STATE
         /// </summary>
-        public const string CatElementSTATE = "STATE";
+        public const string CatElementState = "STATE";
 
         /// <summary>
         /// Catalog element STREET
         /// </summary>
-        public const string CatElementSTREET = "STREET";
+        public const string CatElementStreet = "STREET";
 
         /// <summary>
         /// Catalog element SUPPLIER
         /// </summary>
-        public const string CatElementSUPPLIER = "SUPPLIER";
+        public const string CatElementSupplier = "SUPPLIER";
 
         /// <summary>
         /// Catalog element SUPPLIER_AID
         /// </summary>
-        public const string CatElementSUPPLIER_AID = "SUPPLIER_AID";
+        public const string CatElementSupplierAid = "SUPPLIER_AID";
 
         /// <summary>
         /// Catalog element SUPPLIER_AID_SUPPLEMENT
         /// </summary>
-        public const string CatElementSUPPLIER_AID_SUPPLEMENT = "SUPPLIER_AID_SUPPLEMENT";
+        public const string CatElementSupplierAidSupplement = "SUPPLIER_AID_SUPPLEMENT";
 
         /// <summary>
         /// Catalog element SUPPLIER_ALT_AID
         /// </summary>
-        public const string CatElementSUPPLIER_ALT_AID = "SUPPLIER_ALT_AID";
+        public const string CatElementSupplierAltAid = "SUPPLIER_ALT_AID";
 
         /// <summary>
         /// Catalog element SUPPLIER_ID
         /// </summary>
-        public const string CatElementSUPPLIER_ID = "SUPPLIER_ID";
+        public const string CatElementSupplierId = "SUPPLIER_ID";
 
         /// <summary>
         /// Catalog element SUPPLIER_NAME
         /// </summary>
-        public const string CatElementSUPPLIER_NAME = "SUPPLIER_NAME";
+        public const string CatElementSupplierName = "SUPPLIER_NAME";
 
         /// <summary>
         /// Catalog element SUPPLIER_PID
         /// </summary>
-        public const string CatElementSUPPLIER_PID = "SUPPLIER_PID";
+        public const string CatElementSupplierPid = "SUPPLIER_PID";
 
         /// <summary>
         /// Catalog element SUPPLIER_PIDREF
         /// </summary>
-        public const string CatElementSUPPLIER_PIDREF = "SUPPLIER_PIDREF";
+        public const string CatElementSupplierPidref = "SUPPLIER_PIDREF";
 
         /// <summary>
         /// Catalog element SYNONYM
         /// </summary>
-        public const string CatElementSYNONYM = "SYNONYM";
+        public const string CatElementSynonym = "SYNONYM";
 
         /// <summary>
         /// Catalog element TAX
         /// </summary>
-        public const string CatElementTAX = "TAX";
+        public const string CatElementTax = "TAX";
 
         /// <summary>
         /// Catalog element TERRITORY
         /// </summary>
-        public const string CatElementTERRITORY = "TERRITORY";
+        public const string CatElementTerritory = "TERRITORY";
 
         /// <summary>
         /// Catalog element TIME
         /// </summary>
-        public const string CatElementTIME = "TIME";
+        public const string CatElementTime = "TIME";
 
         /// <summary>
         /// Catalog element TIMEZONE
         /// </summary>
-        public const string CatElementTIMEZONE = "TIMEZONE";
+        public const string CatElementTimezone = "TIMEZONE";
 
         /// <summary>
         /// Catalog element TRANSACTION
         /// </summary>
-        public const string CatElementTRANSACTION = "TRANSACTION";
+        public const string CatElementTransaction = "TRANSACTION";
 
         /// <summary>
         /// Catalog element T_NEW_CATALOG
         /// </summary>
-        public const string CatElementT_NEW_CATALOG = "T_NEW_CATALOG";
+        public const string CatElementTNewCatalog = "T_NEW_CATALOG";
 
         /// <summary>
         /// Catalog element T_UPDATE_PRICES
         /// </summary>
-        public const string CatElementT_UPDATE_PRICES = "T_UPDATE_PRICES";
+        public const string CatElementTUpdatePrices = "T_UPDATE_PRICES";
 
         /// <summary>
         /// Catalog element T_UPDATE_PRODUCTS
         /// </summary>
-        public const string CatElementT_UPDATE_PRODUCTS = "T_UPDATE_PRODUCTS";
+        public const string CatElementTUpdateProducts = "T_UPDATE_PRODUCTS";
 
         /// <summary>
         /// Catalog element UDXS
         /// </summary>
-        public const string CatElementUDXS = "UDXS";
+        public const string CatElementUdxs = "UDXS";
 
         /// <summary>
         /// Catalog element UNIT
         /// </summary>
-        public const string CatElementUNIT = "UNIT";
+        public const string CatElementUnit = "UNIT";
 
         /// <summary>
         /// Catalog element UNITS
         /// </summary>
-        public const string CatElementUNITS = "UNITS";
+        public const string CatElementUnits = "UNITS";
 
         /// <summary>
         /// Catalog element UNIT_DESCR
         /// </summary>
-        public const string CatElementUNIT_DESCR = "UNIT_DESCR";
+        public const string CatElementUnitDescr = "UNIT_DESCR";
 
         /// <summary>
         /// Catalog element UNIT_ID
         /// </summary>
-        public const string CatElementUNIT_ID = "UNIT_ID";
+        public const string CatElementUnitId = "UNIT_ID";
 
         /// <summary>
         /// Catalog element UNIT_NAME
         /// </summary>
-        public const string CatElementUNIT_NAME = "UNIT_NAME";
+        public const string CatElementUnitName = "UNIT_NAME";
 
         /// <summary>
         /// Catalog element URL
         /// </summary>
-        public const string CatElementURL = "URL";
+        public const string CatElementUrl = "URL";
 
         /// <summary>
         /// Catalog element USER_DEFINED_EXTENSIONS
         /// </summary>
-        public const string CatElementUSER_DEFINED_EXTENSIONS = "USER_DEFINED_EXTENSIONS";
+        public const string CatElementUserDefinedExtensions = "USER_DEFINED_EXTENSIONS";
 
         /// <summary>
         /// Catalog element VARIANT
         /// </summary>
-        public const string CatElementVARIANT = "VARIANT";
+        public const string CatElementVariant = "VARIANT";
 
         /// <summary>
         /// Catalog element VARIANTS
         /// </summary>
-        public const string CatElementVARIANTS = "VARIANTS";
+        public const string CatElementVariants = "VARIANTS";
 
         /// <summary>
         /// Catalog element VORDER
         /// </summary>
-        public const string CatElementVORDER = "VORDER";
+        public const string CatElementVorder = "VORDER";
 
         /// <summary>
         /// Catalog element ZIP
         /// </summary>
-        public const string CatElementZIP = "ZIP";
+        public const string CatElementZip = "ZIP";
 
         /// <summary>
         /// Catalog element ZIPBOX
         /// </summary>
-        public const string CatElementZIPBOX = "ZIPBOX";
+        public const string CatElementZipbox = "ZIPBOX";
 
         /// <summary>
         /// Catalog element UNDEFINED
         /// </summary>
-        public const string CatElementUNDEFINED = "UNDEFINED";
+        public const string CatElementUndefined = "UNDEFINED";
 
         /// <summary>
         /// Catalog element XML
         /// </summary>
-        public const string CatElementXML = "XML";
+        public const string CatElementXml = "XML";
 
         #endregion
 
-        public static readonly string[] gaga = {"aa","bb"};
-
+        /// <summary>
+        /// Sequence of catalog element names.
+        /// </summary>
         public static readonly string[] NodeName =
         {
-            CatElementUNDEFINED, // BMEcat ID 0 is not defined
-            CatElementXML, // The Name of BMEcat ID 1 is "XML"
-            CatElementDOCTYPE, // The Name of BMEcat ID 2 is "DOCTYPE"
-            CatElementAddress, // The Name of BMEcat ID 3 is "ADDRESS"
-            CatElementAddressRemarks, // The Name of BMEcat ID 4 is "ADDRESS_REMARKS"
-            CatElementAgreement, // The Name of BMEcat ID 5 is "AGREEMENT"
-            CatElementAgreementID, // The Name of BMEcat ID 6 is "AGREEMENT_ID"
-            CatElementAllowedValue, // The Name of BMEcat ID 7 is "ALLOWED_VALUE"
-            CatElementAllowedValues, // The Name of BMEcat ID 8 is "ALLOWED_VALUES"
-            CatElementALLOWED_VALUE_DESCR, // The Name of BMEcat ID 9 is "ALLOWED_VALUE_DESCR"
-            CatElementALLOWED_VAUE_ID, // The Name of BMEcat ID 10 is "ALLOWED_VALUE_ID"
-            CatElementALLOWED_VALUE_IDREF, // The Name of BMEcat ID 11 is "ALLOWED_VALUE_IDREF"
-            CatElementALLOWED_VALUE_NAME, // The Name of BMEcat ID 12 is "ALLOWED_VALUE_NAME"
-            CatElementARTICLE, // The Name of BMEcat ID 13 is "ARTICLE"
-            CatElementARTICLE_DETAILS, // The Name of BMEcat ID 14 is "ARTICLE_DETAILS"
-            CatElementARTICLE_FEATURES, // The Name of BMEcat ID 15 is "ARTICLE_FEATURES"
-            CatElementARTICLE_ORDER, // The Name of BMEcat ID 16 is "ARTICLE_ORDER"
-            CatElementARTICLE_ORDER_DETAILS, // The Name of BMEcat ID 17 is "ARTICLE_ORDER_DETAILS"
-            CatElementARTICLE_PRICE, // The Name of BMEcat ID 18 is "ARTICLE_PRICE"
-            CatElementARTICLE_PRICE_DETAILS, // The Name of BMEcat ID 19 is "ARTICLE_PRICE_DETAILS"
-            CatElementARTICLE_REFERENCE, // The Name of BMEcat ID 20 is "ARTICLE_REFERENCE"
-            CatElementARTICLE_STATUS, // The Name of BMEcat ID 21 is "ARTICLE_STATUS"
-            CatElementARTICLE_TO_CATALOGGROUP_MAP, // The Name of BMEcat ID 22 is "ARTICLE_TO_CATALOGGROUP_MAP"
-            CatElementARTICLE_TO_CATALOGGROUP_MAP_ORDER, // The Name of BMEcat ID 23 is "ARTICLE_TO_CATALOGGROUP_MAP_ORDER"
-            CatElementART_ID, // The Name of BMEcat ID 24 is "ART_ID"
-            CatElementART_ID_TO, // The Name of BMEcat ID 25 is "ART_ID_TO"
-            CatElementBMECAT, // The Name of BMEcat ID 26 is "BMECAT"
-            CatElementBMECAT_DATA, // The Name of BMEcat ID 27 is "BMECAT_DATA"
-            CatElementBMECAT_FILE, // The Name of BMEcat ID 28 is "BMECAT_FILE"
-            CatElementBOXNO, // The Name of BMEcat ID 29 is "BOXNO"
-            CatElementBUYER, // The Name of BMEcat ID 30 is "BUYER"
-            CatElementBUYER_AID, // The Name of BMEcat ID 31 is "BUYER_AID"
-            CatElementBUYER_ID, // The Name of BMEcat ID 32 is "BUYER_ID"
-            CatElementBUYER_NAME, // The Name of BMEcat ID 33 is "BUYER_ID"
-            CatElementCATALOG, // The Name of BMEcat ID 34 is "CATALOG"
-            CatElementCATALOG_GROUP_ID, // The Name of BMEcat ID 35 is "CATALOG_GROUP_ID"
-            CatElementCATALOG_GROUP_SYSTEM, // The Name of BMEcat ID 36 is "CATALOG_GROUP_SYSTEM"
-            CatElementCATALOG_ID, // The Name of BMEcat ID 37 is "CATALOG_ID"
-            CatElementCATALOG_NAME, // The Name of BMEcat ID 38 is "CATALOG_NAME"
-            CatElementCATALOG_STRUCTURE, // The Name of BMEcat ID 39 is "CATALOG_STRUCTURE"
-            CatElementCATALOG_VERSION, // The Name of BMEcat ID 40 is "CATALOG_VERSION"
-            CatElementCITY, // The Name of BMEcat ID 41 is "CITY"
-            CatElementCLASSIFICATION_GROUP, // The Name of BMEcat ID 42 is "CLASSIFICATION_GROUP"
-            CatElementCLASSIFICATION_GROUPS, // The Name of BMEcat ID 43 is "CLASSIFICATION_GROUPS"
-            CatElementCLASSIFICATION_GROUP_DESCR, // The Name of BMEcat ID 44 is "CLASSIFICATION_GROUP_DESCR"
-            CatElementCLASSIFICATION_GROUP_FEATURE_TEMPLATE, // The Name of BMEcat ID 45 is "CLASSIFICATION_GROUP_FEATURE_TEMPLATE"
-            CatElementCLASSIFICATION_GROUP_FEATURE_TEMPLATES, // The Name of BMEcat ID 46 is "CLASSIFICATION_GROUP_FEATURE_TEMPLATES"
-            CatElementCLASSIFICATION_GROUP_ID, // The Name of BMEcat ID 47 is "CLASSIFICATION_GROUP_ID"
-            CatElementCLASSIFICATION_GROUP_NAME, // The Name of BMEcat ID 48 is "CLASSIFICATION_GROUP_NAME"
-            CatElementCLASSIFICATION_GROUP_PARENT_ID, // The Name of BMEcat ID 49 is "CLASSIFICATION_GROUP_PARENT_ID"
-            CatElementCLASSIFICATION_GROUP_SYNONYMS, // The Name of BMEcat ID 50 is "CLASSIFICATION_GROUP_SYNONYMS"
-            CatElementCLASSIFICATION_SYSTEM, // The Name of BMEcat ID 51 is "CLASSIFICATION_SYSTEM"
-            CatElementCLASSIFICATION_SYSTEM_DESCR, // The Name of BMEcat ID 52 is "CLASSIFICATION_SYSTEM_DESCR"
-            CatElementCLASSIFICATION_SYSTEM_FEATURE_TEMPLATE, // The Name of BMEcat ID 53 is "CLASSIFICATION_SYSTEM_FEATURE_TEMPLATE"
-            CatElementCLASSIFICATION_SYSTEM_FEATURE_TEMPLATES, // The Name of BMEcat ID 54 is "CLASSIFICATION_SYSTEM_FEATURE_TEMPLATES"
-            CatElementCLASSIFICATION_SYSTEM_FULLNAME, // The Name of BMEcat ID 55 is "CLASSIFICATION_SYSTEM_FULLNAME"
-            CatElementCLASSIFICATION_SYSTEM_LEVELS, // The Name of BMEcat ID 56 is "CLASSIFICATION_SYSTEM_LEVELS"
-            CatElementCLASSIFICATION_SYSTEM_LEVEL_NAME, // The Name of BMEcat ID 57 is "CLASSIFICATION_SYSTEM_LEVEL_NAME"
-            CatElementCLASSIFICATION_SYSTEM_LEVEL_NAMES, // The Name of BMEcat ID 58 is "CLASSIFICATION_SYSTEM_LEVEL_NAMES"
-            CatElementCLASSIFICATION_SYSTEM_NAME, // The Name of BMEcat ID 59 is "CLASSIFICATION_SYSTEM_NAME"
-            CatElementCLASSIFICATION_SYSTEM_VERSION, // The Name of BMEcat ID 60 is "CLASSIFICATION_SYSTEM_VERSION"
-            CatElementCONTACT, // The Name of BMEcat ID 61 is "CONTACT"
-            CatElementCONTENT_UNIT, // The Name of BMEcat ID 62 is "CONTENT_UNIT"
-            CatElementCOUNTRY, // The Name of BMEcat ID 63 is "COUNTRY"
-            CatElementCURRENCY, // The Name of BMEcat ID 64 is "CURRENCY"
-            CatElementDAILY_PRICE, // The Name of BMEcat ID 65 is "DAILY_PRICE"
-            CatElementDATE, // The Name of BMEcat ID 66 is "DATE"
-            CatElementDATETIME, // The Name of BMEcat ID 67 is "DATETIME"
-            CatElementDELIVERY_TIME, // The Name of BMEcat ID 68 is "DELIVERY_TIME"
-            CatElementDESCRIPTION_LONG, // The Name of BMEcat ID 69 is "DESCRIPTION_LONG"
-            CatElementDESCRIPTION_SHORT, // The Name of BMEcat ID 70 is "DESCRIPTION_SHORT"
-            CatElementEAN, // The Name of BMEcat ID 71 is "EAN"
-            CatElementEMAIL, // The Name of BMEcat ID 72 is "EMAIL"
-            CatElementERP_GROUP_BUYER, // The Name of BMEcat ID 73 is "ERP_GROUP_BUYER"
-            CatElementERP_GROUP_SUPPLIER, // The Name of BMEcat ID 74 is "ERP_GROUP_SUPPLIER"
-            CatElementFAX, // The Name of BMEcat ID 75 is "FAX"
-            CatElementFDESCR, // The Name of BMEcat ID 76 is "FDESCR"
-            CatElementFEATURE, // The Name of BMEcat ID 77 is "FEATURE"
-            CatElementFEATURE_GROUP, // The Name of BMEcat ID 78 is "FEATURE_GROUP"
-            CatElementFEATURE_GROUP_DESCR, // The Name of BMEcat ID 79 is "FEATURE_GROUP_DESCR"
-            CatElementFEATURE_GROUP_ID, // The Name of BMEcat ID 80 is "FEATURE_GROUP_ID"
-            CatElementFEATURE_GROUP_NAME, // The Name of BMEcat ID 81 is "FEATURE_GROUP_NAME"
-            CatElementFEATURE_SYSTEM, // The Name of BMEcat ID 82 is "FEATURE_SYSTEM"
-            CatElementFEATURE_SYSTEM_DESCR, // The Name of BMEcat ID 83 is "FEATURE_SYSTEM_DESCR"
-            CatElementFEATURE_SYSTEM_NAME, // The Name of BMEcat ID 84 is "FEATURE_SYSTEM_NAME"
-            CatElementFEATURE_TEMPLATE, // The Name of BMEcat ID 85 is "FEATURE_TEMPLATE"
-            CatElementFNAME, // The Name of BMEcat ID 86 is "FNAME"
-            CatElementFORDER, // The Name of BMEcat ID 87 is "FORDER"
-            CatElementFT_ALLOWED_VALUES, // The Name of BMEcat ID 88 is "FT_ALLOWED_VALUES"
-            CatElementFT_DATATYPE, // The Name of BMEcat ID 89 is "FT_DATATYPE"
-            CatElementFT_DESCR, // The Name of BMEcat ID 90 is "FT_DESCR"
-            CatElementFT_ID, // The Name of BMEcat ID 91 is "FT_ID"
-            CatElementFT_IDREF, // The Name of BMEcat ID 92 is "FT_IDREF"
-            CatElementFT_MANDATORY, // The Name of BMEcat ID 93 is "FT_MANDATORY"
-            CatElementFT_NAME, // The Name of BMEcat ID 94 is "FT_NAME"
-            CatElementFT_ORDER, // The Name of BMEcat ID 95 is "FT_ORDER"
-            CatElementFT_UNIT, // The Name of BMEcat ID 96 is "FT_UNIT"
-            CatElementFUNIT, // The Name of BMEcat ID 97 is "FUNIT"
-            CatElementFVALUE, // The Name of BMEcat ID 98 is "FVALUE"
-            CatElementFVALUE_DETAILS, // The Name of BMEcat ID 99 is "FVALUE_DETAILS"
-            CatElementGENERATOR_INFO, // The Name of BMEcat ID 100 is "GENERATOR_INFO"
-            CatElementGROUP_DESCRIPTION, // The Name of BMEcat ID 101 is "GROUP_DESCRIPTION"
-            CatElementGROUP_ID, // The Name of BMEcat ID 102 is "GROUP_ID"
-            CatElementGROUP_NAME, // The Name of BMEcat ID 103 is "GROUP_NAME"
-            CatElementGROUP_ORDER, // The Name of BMEcat ID 104 is "GROUP_ORDER"
-            CatElementGROUP_PRODUCT_ORDER, // The Name of BMEcat ID 105 is "GROUP_PRODUCT_ORDER"
-            CatElementGROUP_SYSTEM_DESCRIPTION, // The Name of BMEcat ID 106 is "GROUP_SYSTEM_DESCRIPTION"
-            CatElementGROUP_SYSTEM_ID, // The Name of BMEcat ID 107 is "GROUP_SYSTEM_ID"
-            CatElementGROUP_SYSTEM_NAME, // The Name of BMEcat ID 108 is "GROUP_SYSTEM_NAME"
-            CatElementHEADER, // The Name of BMEcat ID 109 is "HEADER"
-            CatElementKEYWORD, // The Name of BMEcat ID 110 is "KEYWORD"
-            CatElementLANGUAGE, // The Name of BMEcat ID 111 is "LANGUAGE"
-            CatElementLOWER_BOUND, // The Name of BMEcat ID 112 is "LOWER_BOUND"
-            CatElementMANUFACTURER_AID, // The Name of BMEcat ID 113 is "MANUFACTURER_AID"
-            CatElementMANUFACTURER_NAME, // The Name of BMEcat ID 114 is "MANUFACTURER_NAME"
-            CatElementMANUFACTURER_TYPE_DESCR, // The Name of BMEcat ID 115 is "MANUFACTURER_TYPE_DESCR"
-            CatElementMIME, // The Name of BMEcat ID 116 is "MIME"
-            CatElementMIME_ALT, // The Name of BMEcat ID 117 is "MIME_ALT"
-            CatElementMIME_DESCR, // The Name of BMEcat ID 118 is "MIME_DESCR"
-            CatElementMIME_INFO, // The Name of BMEcat ID 119 is "MIME_INFO"
-            CatElementMIME_ORDER, // The Name of BMEcat ID 120 is "MIME_ORDER"
-            CatElementMIME_PURPOSE, // The Name of BMEcat ID 121 is "MIME_PURPOSE"
-            CatElementMIME_ROOT, // The Name of BMEcat ID 122 is "MIME_ROOT"
-            CatElementMIME_SOURCE, // The Name of BMEcat ID 123 is "MIME_SOURCE"
-            CatElementMIME_TYPE, // The Name of BMEcat ID 124 is "MIME_TYPE"
-            CatElementNAME, // The Name of BMEcat ID 125 is "NAME"
-            CatElementNAME2, // The Name of BMEcat ID 126 is "NAME2"
-            CatElementNAME3, // The Name of BMEcat ID 127 is "NAME3"
-            CatElementNO_CU_PER_OU, // The Name of BMEcat ID 128 is "NO_CU_PER_OU"
-            CatElementORDER_UNIT, // The Name of BMEcat ID 129 is "ORDER_UNIT"
-            CatElementPACKING_UNITS, // The Name of BMEcat ID 130 is "PACKING_UNITS"
-            CatElementPARENT_ID, // The Name of BMEcat ID 131 is "PARENT_ID"
-            CatElementPHONE, // The Name of BMEcat ID 132 is "PHONE"
-            CatElementPRICE_AMOUNT, // The Name of BMEcat ID 133 is "PRICE_AMOUNT"
-            CatElementPRICE_CURRENCY, // The Name of BMEcat ID 134 is "PRICE_CURRENCY"
-            CatElementPRICE_FACTOR, // The Name of BMEcat ID 135 is "PRICE_FACTOR"
-            CatElementPRICE_FLAG, // The Name of BMEcat ID 136 is "PRICE_FLAG"
-            CatElementPRICE_QUANTITY, // The Name of BMEcat ID 137 is "PRICE_QUANTITY"
-            CatElementPROD_ID, // The Name of BMEcat ID 138 is "PROD_ID"
-            CatElementPROD_ID_TO, // The Name of BMEcat ID 139 is "PROD_ID_TO"
-            CatElementPUBLIC_KEY, // The Name of BMEcat ID 140 is "PUBLIC_KEY"
-            CatElementQUANTITY_INTERVAL, // The Name of BMEcat ID 141 is "QUANTITY_INTERVAL"
-            CatElementQUANTITY_MAX, // The Name of BMEcat ID 142 is "QUANTITY_MAX"
-            CatElementQUANTITY_MIN, // The Name of BMEcat ID 143 is "QUANTITY_MIN"
-            CatElementREFERENCE_FEATURE_GROUP_ID, // The Name of BMEcat ID 144 is "REFERENCE_FEATURE_GROUP_ID"
-            CatElementREFERENCE_FEATURE_GROUP_ID2, // The Name of BMEcat ID 145 is "REFERENCE_FEATURE_GROUP_ID2"
-            CatElementREFERENCE_FEATURE_GROUP_NAME, // The Name of BMEcat ID 146 is "REFERENCE_FEATURE_GROUP_NAME"
-            CatElementREFERENCE_FEATURE_SYSTEM_NAME, // The Name of BMEcat ID 147 is "REFERENCE_FEATURE_SYSTEM_NAME"
-            CatElementREMARKS, // The Name of BMEcat ID 148 is "REMARKS"
-            CatElementSEGMENT, // The Name of BMEcat ID 149 is "SEGMENT"
-            CatElementSPECIAL_TREATMENT_CLASS, // The Name of BMEcat ID 150 is "SPECIAL_TREATMENT_CLASS"
-            CatElementSTATE, // The Name of BMEcat ID 151 is "STATE"
-            CatElementSTREET, // The Name of BMEcat ID 152 is "STREET"
-            CatElementSUPPLIER, // The Name of BMEcat ID 153 is "SUPPLIER"
-            CatElementSUPPLIER_AID, // The Name of BMEcat ID 154 is "SUPPLIER_AID"
-            CatElementSUPPLIER_AID_SUPPLEMENT, // The Name of BMEcat ID 155 is "SUPPLIER_AID_SUPPLEMENT"
-            CatElementSUPPLIER_ALT_AID, // The Name of BMEcat ID 156 is "SUPPLIER_ALT_AID"
-            CatElementSUPPLIER_ID, // The Name of BMEcat ID 157 is "SUPPLIER_ID"
-            CatElementSUPPLIER_NAME, // The Name of BMEcat ID 158 is "SUPPLIER_NAME"
-            CatElementSUPPLIER_PID, // The Name of BMEcat ID 159 is "SUPPLIER_PID"
-            CatElementSUPPLIER_PIDREF, // The Name of BMEcat ID 160 is "SUPPLIER_PIDREF"
-            CatElementSYNONYM, // The Name of BMEcat ID 161 is "SYNONYM"
-            CatElementTAX, // The Name of BMEcat ID 162 is "TAX"
-            CatElementTERRITORY, // The Name of BMEcat ID 163 is "TERRITORY"
-            CatElementTIME, // The Name of BMEcat ID 164 is "TIME"
-            CatElementTIMEZONE, // The Name of BMEcat ID 165 is "TIMEZONE"
-            CatElementTRANSACTION, // The Name of BMEcat ID 166 is "TRANSACTION"
-            CatElementT_NEW_CATALOG, // The Name of BMEcat ID 167 is "T_NEW_CATALOG"
-            CatElementT_UPDATE_PRICES, // The Name of BMEcat ID 168 is "T_UPDATE_PRICES"
-            CatElementT_UPDATE_PRODUCTS, // The Name of BMEcat ID 169 is "T_UPDATE_PRODUCTS"
-            CatElementUDXS, // The Name of BMEcat ID 170 is "UDXS"
-            CatElementUNIT, // The Name of BMEcat ID 171 is "UNIT"
-            CatElementUNITS, // The Name of BMEcat ID 172 is "UNITS"
-            CatElementUNIT_DESCR, // The Name of BMEcat ID 173 is "UNIT_DESCR"
-            CatElementUNIT_ID, // The Name of BMEcat ID 174 is "UNIT_ID"
-            CatElementUNIT_NAME, // The Name of BMEcat ID 175 is "UNIT_NAME"
-            CatElementURL, // The Name of BMEcat ID 176 is "URL"
-            CatElementUSER_DEFINED_EXTENSIONS, // The Name of BMEcat ID 177 is "USER_DEFINED_EXTENSIONS"
-            CatElementVARIANT, // The Name of BMEcat ID 178 is "VARIANT"
-            CatElementVARIANTS, // The Name of BMEcat ID 179 is "VARIANTS"
-            CatElementVORDER, // The Name of BMEcat ID 180 is "VORDER"
-            CatElementZIP, // The Name of BMEcat ID 181 is "ZIP"
-            CatElementZIPBOX // The Name of BMEcat ID 182 is "ZIPBOX"
+            CatElementUndefined,                            // Catalog ID 0 is not defined
+            CatElementXml,                                  // The Name of catalog ID   1 is "XML"
+            CatElementDoctype,                              // The Name of catalog ID   2 is "DOCTYPE"
+            CatElementAddress,                              // The Name of catalog ID   3 is "ADDRESS"
+            CatElementAddressRemarks,                       // The Name of catalog ID   4 is "ADDRESS_REMARKS"
+            CatElementAgreement,                            // The Name of catalog ID   5 is "AGREEMENT"
+            CatElementAgreementID,                          // The Name of catalog ID   6 is "AGREEMENT_ID"
+            CatElementAllowedValue,                         // The Name of catalog ID   7 is "ALLOWED_VALUE"
+            CatElementAllowedValues,                        // The Name of catalog ID   8 is "ALLOWED_VALUES"
+            CatElementAllowedValueDescr,                    // The Name of catalog ID   9 is "ALLOWED_VALUE_DESCR"
+            CatElementAllowedVaueId,                        // The Name of catalog ID  10 is "ALLOWED_VALUE_ID"
+            CatElementAllowedValueIdref,                    // The Name of catalog ID  11 is "ALLOWED_VALUE_IDREF"
+            CatElementAllowedValueName,                     // The Name of catalog ID  12 is "ALLOWED_VALUE_NAME"
+            CatElementArticle,                              // The Name of catalog ID  13 is "ARTICLE"
+            CatElementArticleDetails,                       // The Name of catalog ID  14 is "ARTICLE_DETAILS"
+            CatElementArticleFeatures,                      // The Name of catalog ID  15 is "ARTICLE_FEATURES"
+            CatElementArticleOrder,                         // The Name of catalog ID  16 is "ARTICLE_ORDER"
+            CatElementArticleOrderDetails,                  // The Name of catalog ID  17 is "ARTICLE_ORDER_DETAILS"
+            CatElementArticlePrice,                         // The Name of catalog ID  18 is "ARTICLE_PRICE"
+            CatElementArticlePriceDetails,                  // The Name of catalog ID  19 is "ARTICLE_PRICE_DETAILS"
+            CatElementArticleReference,                     // The Name of catalog ID  20 is "ARTICLE_REFERENCE"
+            CatElementArticleStatus,                        // The Name of catalog ID  21 is "ARTICLE_STATUS"
+            CatElementArticleToCataloggroupMap,             // The Name of catalog ID  22 is "ARTICLE_TO_CATALOGGROUP_MAP"
+            CatElementArticleToCataloggroupMapOrder,        // The Name of catalog ID  23 is "ARTICLE_TO_CATALOGGROUP_MAP_ORDER"
+            CatElementArtId,                                // The Name of catalog ID  24 is "ART_ID"
+            CatElementArtIdTo,                              // The Name of catalog ID  25 is "ART_ID_TO"
+            CatElementBmecat,                               // The Name of catalog ID  26 is "BMECAT"
+            CatElementBmecatData,                           // The Name of catalog ID  27 is "BMECAT_DATA"
+            CatElementBmecatFile,                           // The Name of catalog ID  28 is "BMECAT_FILE"
+            CatElementBoxno,                                // The Name of catalog ID  29 is "BOXNO"
+            CatElementBuyer,                                // The Name of catalog ID  30 is "BUYER"
+            CatElementBuyerAid,                             // The Name of catalog ID  31 is "BUYER_AID"
+            CatElementBuyerId,                              // The Name of catalog ID  32 is "BUYER_ID"
+            CatElementBuyerName,                            // The Name of catalog ID  33 is "BUYER_ID"
+            CatElementCatalog,                              // The Name of catalog ID  34 is "CATALOG"
+            CatElementCatalogGroupId,                       // The Name of catalog ID  35 is "CATALOG_GROUP_ID"
+            CatElementCatalogGroupSystem,                   // The Name of catalog ID  36 is "CATALOG_GROUP_SYSTEM"
+            CatElementCatalogId,                            // The Name of catalog ID  37 is "CATALOG_ID"
+            CatElementCatalogName,                          // The Name of catalog ID  38 is "CATALOG_NAME"
+            CatElementCatalogStructure,                     // The Name of catalog ID  39 is "CATALOG_STRUCTURE"
+            CatElementCatalogVersion,                       // The Name of catalog ID  40 is "CATALOG_VERSION"
+            CatElementCity,                                 // The Name of catalog ID  41 is "CITY"
+            CatElementClassificationGroup,                  // The Name of catalog ID  42 is "CLASSIFICATION_GROUP"
+            CatElementClassificationGroups,                 // The Name of catalog ID  43 is "CLASSIFICATION_GROUPS"
+            CatElementClassificationGroupDescr,             // The Name of catalog ID  44 is "CLASSIFICATION_GROUP_DESCR"
+            CatElementClassificationGroupFeatureTemplate,   // The Name of catalog ID  45 is "CLASSIFICATION_GROUP_FEATURE_TEMPLATE"
+            CatElementClassificationGroupFeatureTemplates,  // The Name of catalog ID  46 is "CLASSIFICATION_GROUP_FEATURE_TEMPLATES"
+            CatElementClassificationGroupId,                // The Name of catalog ID  47 is "CLASSIFICATION_GROUP_ID"
+            CatElementClassificationGroupName,              // The Name of catalog ID  48 is "CLASSIFICATION_GROUP_NAME"
+            CatElementClassificationGroupParentId,          // The Name of catalog ID  49 is "CLASSIFICATION_GROUP_PARENT_ID"
+            CatElementClassificationGroupSynonyms,          // The Name of catalog ID  50 is "CLASSIFICATION_GROUP_SYNONYMS"
+            CatElementClassificationSystem,                 // The Name of catalog ID  51 is "CLASSIFICATION_SYSTEM"
+            CatElementClassificationSystemDescr,            // The Name of catalog ID  52 is "CLASSIFICATION_SYSTEM_DESCR"
+            CatElementClassificationSystemFeatureTemplate,  // The Name of catalog ID  53 is "CLASSIFICATION_SYSTEM_FEATURE_TEMPLATE"
+            CatElementClassificationSystemFeatureTemplates, // The Name of catalog ID  54 is "CLASSIFICATION_SYSTEM_FEATURE_TEMPLATES"
+            CatElementClassificationSystemFullname,         // The Name of catalog ID  55 is "CLASSIFICATION_SYSTEM_FULLNAME"
+            CatElementClassificationSystemLevels,           // The Name of catalog ID  56 is "CLASSIFICATION_SYSTEM_LEVELS"
+            CatElementClassificationSystemLevelName,        // The Name of catalog ID  57 is "CLASSIFICATION_SYSTEM_LEVEL_NAME"
+            CatElementClassificationSystemLevelNames,       // The Name of catalog ID  58 is "CLASSIFICATION_SYSTEM_LEVEL_NAMES"
+            CatElementClassificationSystemName,             // The Name of catalog ID  59 is "CLASSIFICATION_SYSTEM_NAME"
+            CatElementClassificationSystemVersion,          // The Name of catalog ID  60 is "CLASSIFICATION_SYSTEM_VERSION"
+            CatElementContact,                              // The Name of catalog ID  61 is "CONTACT"
+            CatElementContentUnit,                          // The Name of catalog ID  62 is "CONTENT_UNIT"
+            CatElementCountry,                              // The Name of catalog ID  63 is "COUNTRY"
+            CatElementCurrency,                             // The Name of catalog ID  64 is "CURRENCY"
+            CatElementDailyPrice,                           // The Name of catalog ID  65 is "DAILY_PRICE"
+            CatElementDate,                                 // The Name of catalog ID  66 is "DATE"
+            CatElementDatetime,                             // The Name of catalog ID  67 is "DATETIME"
+            CatElementDeliveryTime,                         // The Name of catalog ID  68 is "DELIVERY_TIME"
+            CatElementDescriptionLong,                      // The Name of catalog ID  69 is "DESCRIPTION_LONG"
+            CatElementDescriptionShort,                     // The Name of catalog ID  70 is "DESCRIPTION_SHORT"
+            CatElementEan,                                  // The Name of catalog ID  71 is "EAN"
+            CatElementEmail,                                // The Name of catalog ID  72 is "EMAIL"
+            CatElementErpGroupBuyer,                        // The Name of catalog ID  73 is "ERP_GROUP_BUYER"
+            CatElementErpGroupSupplier,                     // The Name of catalog ID  74 is "ERP_GROUP_SUPPLIER"
+            CatElementFax,                                  // The Name of catalog ID  75 is "FAX"
+            CatElementFdescr,                               // The Name of catalog ID  76 is "FDESCR"
+            CatElementFeature,                              // The Name of catalog ID  77 is "FEATURE"
+            CatElementFeatureGroup,                         // The Name of catalog ID  78 is "FEATURE_GROUP"
+            CatElementFeatureGroupDescr,                    // The Name of catalog ID  79 is "FEATURE_GROUP_DESCR"
+            CatElementFeatureGroupId,                       // The Name of catalog ID  80 is "FEATURE_GROUP_ID"
+            CatElementFeatureGroupName,                     // The Name of catalog ID  81 is "FEATURE_GROUP_NAME"
+            CatElementFeatureSystem,                        // The Name of catalog ID  82 is "FEATURE_SYSTEM"
+            CatElementFeatureSystemDescr,                   // The Name of catalog ID  83 is "FEATURE_SYSTEM_DESCR"
+            CatElementFeatureSystemName,                    // The Name of catalog ID  84 is "FEATURE_SYSTEM_NAME"
+            CatElementFeatureTemplate,                      // The Name of catalog ID  85 is "FEATURE_TEMPLATE"
+            CatElementFname,                                // The Name of catalog ID  86 is "FNAME"
+            CatElementForder,                               // The Name of catalog ID  87 is "FORDER"
+            CatElementFtAllowedValues,                      // The Name of catalog ID  88 is "FT_ALLOWED_VALUES"
+            CatElementFtDatatype,                           // The Name of catalog ID  89 is "FT_DATATYPE"
+            CatElementFtDescr,                              // The Name of catalog ID  90 is "FT_DESCR"
+            CatElementFtId,                                 // The Name of catalog ID  91 is "FT_ID"
+            CatElementFtIdref,                              // The Name of catalog ID  92 is "FT_IDREF"
+            CatElementFtMandatory,                          // The Name of catalog ID  93 is "FT_MANDATORY"
+            CatElementFtName,                               // The Name of catalog ID  94 is "FT_NAME"
+            CatElementFtOrder,                              // The Name of catalog ID  95 is "FT_ORDER"
+            CatElementFtUnit,                               // The Name of catalog ID  96 is "FT_UNIT"
+            CatElementFunit,                                // The Name of catalog ID  97 is "FUNIT"
+            CatElementFvalue,                               // The Name of catalog ID  98 is "FVALUE"
+            CatElementFvalueDetails,                        // The Name of catalog ID  99 is "FVALUE_DETAILS"
+            CatElementGeneratorInfo,                        // The Name of catalog ID 100 is "GENERATOR_INFO"
+            CatElementGroupDescription,                     // The Name of catalog ID 101 is "GROUP_DESCRIPTION"
+            CatElementGroupId,                              // The Name of catalog ID 102 is "GROUP_ID"
+            CatElementGroupName,                            // The Name of catalog ID 103 is "GROUP_NAME"
+            CatElementGroupOrder,                           // The Name of catalog ID 104 is "GROUP_ORDER"
+            CatElementGroupProductOrder,                    // The Name of catalog ID 105 is "GROUP_PRODUCT_ORDER"
+            CatElementGroupSystemDescription,               // The Name of catalog ID 106 is "GROUP_SYSTEM_DESCRIPTION"
+            CatElementGroupSystemId,                        // The Name of catalog ID 107 is "GROUP_SYSTEM_ID"
+            CatElementGroupSystemName,                      // The Name of catalog ID 108 is "GROUP_SYSTEM_NAME"
+            CatElementHeader,                               // The Name of catalog ID 109 is "HEADER"
+            CatElementKeyword,                              // The Name of catalog ID 110 is "KEYWORD"
+            CatElementLanguage,                             // The Name of catalog ID 111 is "LANGUAGE"
+            CatElementLowerBound,                           // The Name of catalog ID 112 is "LOWER_BOUND"
+            CatElementManufacturerAid,                      // The Name of catalog ID 113 is "MANUFACTURER_AID"
+            CatElementManufacturerName,                     // The Name of catalog ID 114 is "MANUFACTURER_NAME"
+            CatElementManufacturerTypeDescr,                // The Name of catalog ID 115 is "MANUFACTURER_TYPE_DESCR"
+            CatElementMime,                                 // The Name of catalog ID 116 is "MIME"
+            CatElementMimeAlt,                              // The Name of catalog ID 117 is "MIME_ALT"
+            CatElementMimeDescr,                            // The Name of catalog ID 118 is "MIME_DESCR"
+            CatElementMimeInfo,                             // The Name of catalog ID 119 is "MIME_INFO"
+            CatElementMimeOrder,                            // The Name of catalog ID 120 is "MIME_ORDER"
+            CatElementMimePurpose,                          // The Name of catalog ID 121 is "MIME_PURPOSE"
+            CatElementMimeRoot,                             // The Name of catalog ID 122 is "MIME_ROOT"
+            CatElementMimeSource,                           // The Name of catalog ID 123 is "MIME_SOURCE"
+            CatElementMimeType,                             // The Name of catalog ID 124 is "MIME_TYPE"
+            CatElementName,                                 // The Name of catalog ID 125 is "NAME"
+            CatElementName2,                                // The Name of catalog ID 126 is "NAME2"
+            CatElementName3,                                // The Name of catalog ID 127 is "NAME3"
+            CatElementNoCuPerOu,                            // The Name of catalog ID 128 is "NO_CU_PER_OU"
+            CatElementOrderUnit,                            // The Name of catalog ID 129 is "ORDER_UNIT"
+            CatElementPackingUnits,                         // The Name of catalog ID 130 is "PACKING_UNITS"
+            CatElementParentId,                             // The Name of catalog ID 131 is "PARENT_ID"
+            CatElementPhone,                                // The Name of catalog ID 132 is "PHONE"
+            CatElementPriceAmount,                          // The Name of catalog ID 133 is "PRICE_AMOUNT"
+            CatElementPriceCurrency,                        // The Name of catalog ID 134 is "PRICE_CURRENCY"
+            CatElementPriceFactor,                          // The Name of catalog ID 135 is "PRICE_FACTOR"
+            CatElementPriceFlag,                            // The Name of catalog ID 136 is "PRICE_FLAG"
+            CatElementPriceQuantity,                        // The Name of catalog ID 137 is "PRICE_QUANTITY"
+            CatElementProdId,                               // The Name of catalog ID 138 is "PROD_ID"
+            CatElementProdIdTo,                             // The Name of catalog ID 139 is "PROD_ID_TO"
+            CatElementPublicKey,                            // The Name of catalog ID 140 is "PUBLIC_KEY"
+            CatElementQuantityInterval,                     // The Name of catalog ID 141 is "QUANTITY_INTERVAL"
+            CatElementQuantityMax,                          // The Name of catalog ID 142 is "QUANTITY_MAX"
+            CatElementQuantityMin,                          // The Name of catalog ID 143 is "QUANTITY_MIN"
+            CatElementReferenceFeatureGroupId,              // The Name of catalog ID 144 is "REFERENCE_FEATURE_GROUP_ID"
+            CatElementReferenceFeatureGroupId2,             // The Name of catalog ID 145 is "REFERENCE_FEATURE_GROUP_ID2"
+            CatElementReferenceFeatureGroupName,            // The Name of catalog ID 146 is "REFERENCE_FEATURE_GROUP_NAME"
+            CatElementReferenceFeatureSystemName,           // The Name of catalog ID 147 is "REFERENCE_FEATURE_SYSTEM_NAME"
+            CatElementRemarks,                              // The Name of catalog ID 148 is "REMARKS"
+            CatElementSegment,                              // The Name of catalog ID 149 is "SEGMENT"
+            CatElementSpecialTreatmentClass,                // The Name of catalog ID 150 is "SPECIAL_TREATMENT_CLASS"
+            CatElementState,                                // The Name of catalog ID 151 is "STATE"
+            CatElementStreet,                               // The Name of catalog ID 152 is "STREET"
+            CatElementSupplier,                             // The Name of catalog ID 153 is "SUPPLIER"
+            CatElementSupplierAid,                          // The Name of catalog ID 154 is "SUPPLIER_AID"
+            CatElementSupplierAidSupplement,                // The Name of catalog ID 155 is "SUPPLIER_AID_SUPPLEMENT"
+            CatElementSupplierAltAid,                       // The Name of catalog ID 156 is "SUPPLIER_ALT_AID"
+            CatElementSupplierId,                           // The Name of catalog ID 157 is "SUPPLIER_ID"
+            CatElementSupplierName,                         // The Name of catalog ID 158 is "SUPPLIER_NAME"
+            CatElementSupplierPid,                          // The Name of catalog ID 159 is "SUPPLIER_PID"
+            CatElementSupplierPidref,                       // The Name of catalog ID 160 is "SUPPLIER_PIDREF"
+            CatElementSynonym,                              // The Name of catalog ID 161 is "SYNONYM"
+            CatElementTax,                                  // The Name of catalog ID 162 is "TAX"
+            CatElementTerritory,                            // The Name of catalog ID 163 is "TERRITORY"
+            CatElementTime,                                 // The Name of catalog ID 164 is "TIME"
+            CatElementTimezone,                             // The Name of catalog ID 165 is "TIMEZONE"
+            CatElementTransaction,                          // The Name of catalog ID 166 is "TRANSACTION"
+            CatElementTNewCatalog,                          // The Name of catalog ID 167 is "T_NEW_CATALOG"
+            CatElementTUpdatePrices,                        // The Name of catalog ID 168 is "T_UPDATE_PRICES"
+            CatElementTUpdateProducts,                      // The Name of catalog ID 169 is "T_UPDATE_PRODUCTS"
+            CatElementUdxs,                                 // The Name of catalog ID 170 is "UDXS"
+            CatElementUnit,                                 // The Name of catalog ID 171 is "UNIT"
+            CatElementUnits,                                // The Name of catalog ID 172 is "UNITS"
+            CatElementUnitDescr,                            // The Name of catalog ID 173 is "UNIT_DESCR"
+            CatElementUnitId,                               // The Name of catalog ID 174 is "UNIT_ID"
+            CatElementUnitName,                             // The Name of catalog ID 175 is "UNIT_NAME"
+            CatElementUrl,                                  // The Name of catalog ID 176 is "URL"
+            CatElementUserDefinedExtensions,                // The Name of catalog ID 177 is "USER_DEFINED_EXTENSIONS"
+            CatElementVariant,                              // The Name of catalog ID 178 is "VARIANT"
+            CatElementVariants,                             // The Name of catalog ID 179 is "VARIANTS"
+            CatElementVorder,                               // The Name of catalog ID 180 is "VORDER"
+            CatElementZip,                                  // The Name of catalog ID 181 is "ZIP"
+            CatElementZipbox                                // The Name of catalog ID 182 is "ZIPBOX"
         };
+
 
     }
 }
